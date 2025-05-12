@@ -5,6 +5,6 @@
 
 I enjoy coding in **Python**, a bit in **JS**, **Java** and **HTML/CSS**. 
 
-For contact: *oberrauchjannik.tfobz@gmail.com*
+For contact: *soon*
 
 
