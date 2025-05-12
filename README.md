@@ -1,0 +1,10 @@
+**f1kn7**
+
+*Computer Science and Informatics/ telecommunications student.*
+*16 years old*- Southtyrol 
+
+I enjoy coding in **Python**, a bit in **JS**, **Java** and **HTML/CSS**. 
+
+For contact: *oberrauchjannik.tfobz@gmail.com*
+
+
